@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: convertly
+Version: 0.1.0
+Summary: Local multi-format file conversion web app.
+Requires-Python: >=3.10
+Requires-Dist: streamlit>=1.35
+Requires-Dist: Pillow>=10
+Requires-Dist: PyMuPDF>=1.24
+Requires-Dist: python-docx>=1.1
+Requires-Dist: openpyxl>=3.1
+Requires-Dist: reportlab>=4

@@ -1,0 +1,3 @@
+[console_scripts]
+exe-to-pdf-desktop = exe_to_pdf.desktop_app:main
+exe-to-pdf-web = exe_to_pdf.web_app:main
